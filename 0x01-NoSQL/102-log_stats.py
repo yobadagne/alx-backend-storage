@@ -41,5 +41,5 @@ if __name__ == "__main__":
         print("\t{}: {}".format(i.get('_id'), i.get('count')))
         x += 1
         if x > 9:
-            breaksr/bin/env python3
+            break
 
