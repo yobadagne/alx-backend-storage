@@ -1,2 +1,2 @@
 //List all dbs
-how dbs;
+show dbs;
